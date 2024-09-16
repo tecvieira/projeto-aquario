@@ -1,0 +1,102 @@
+body {
+    color: white;
+    background-color: rgb(92, 106, 114);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    margin: -8px;
+    
+}
+
+nav{
+    background-image:linear-gradient(to bottom, rgb(37, 81, 108), rgb(92, 106, 114)  ) ;
+    padding: 30px;
+    
+    
+}
+
+nav ul{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+}
+a {
+    color:white;
+    text-decoration: none;
+}
+header img {
+    width: 300px;
+    height: 200px;    
+    border-radius: 45%;    
+    border: 5px solid blue;
+
+}
+
+header h1{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+    line-height: 2em;
+    text-indent: 20px;
+    
+    
+}
+.center{
+    text-align: center;
+}
+h1{
+    color: blue;
+    
+}
+h2{
+    color: rgb(33, 33, 107);
+    
+}
+h3{
+    color: rgb(24, 39, 58);
+    text-indent: 30px;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+   
+    display: flex;
+    justify-content: center;
+   background-image: linear-gradient(to bottom, rgb(92, 106, 114),  rgb(37, 81, 108));
+}
+
+footer a{
+    margin: 20px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
+.container {
+    padding-left: 80px;
+    padding-right: 80px;
+   
+}
+
+nav a{
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: greenyellow
+}
+

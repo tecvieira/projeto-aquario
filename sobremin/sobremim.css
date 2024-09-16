@@ -1,0 +1,39 @@
+body {   
+    background-color: black;
+    
+}
+h1{
+    color: rgb(39, 177, 26);
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 40px;
+    
+}
+p{
+    text-align: justify;
+    text-indent: 10px;    
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    line-height: 2em;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.center{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+footer p{
+    text-align: center;
+    
+}
+footer a{
+    color: rgb(39, 177, 26);
+    text-decoration: none;
+}
+footer a:hover{
+    color: rgb(155, 53, 53);
+    text-decoration: underline;
+}

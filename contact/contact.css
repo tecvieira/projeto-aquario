@@ -1,0 +1,46 @@
+body{
+   
+    background-color: black;   
+}
+.center{
+    color: white;
+    font-size: 1.5em;
+    padding: 40px;
+   
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    padding-bottom: 40px;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+p a{
+    color: white;
+}
+ul {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+div {
+    text-align: center;
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+}
+footer a{
+    color: rgb(28, 102, 133);
+}
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
